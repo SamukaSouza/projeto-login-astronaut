@@ -2,7 +2,7 @@
 
  Projeto criado para testar minhas habilidades com HTML e CSS. Site de login recriado apenas visualizando a imagem da tela de Login no Google Imagens.
 
- [🔗Clique aqui para acessar o projeto](https://samukasouza.github.io/projeto-login-netflix/)
+ [🔗Clique aqui para acessar o projeto](https://samukasouza.github.io/projeto-login-astronaut/)
 
 ## 🛠️ Tecnologias utilizadas
 * HTML
